@@ -702,65 +702,65 @@ button:focus {
 =============================================*/
 .color-button-default {
   background-color: transparent;
-  border-color: #0095FB;
-  color: #0095FB;
+  border-color: #870c0b;
+  color: #870c0b;
 }
 .color-button-default:hover,
 .color-button-default:focus,
 .color-button-default:active,
 .color-button-default.active {
-  background-color: #0095FB;
-  border-color: #0095FB;
+  background-color: #870c0b;
+  border-color: #870c0b;
   color: #fff;
 }
 .solid.color-button-default {
-  border-color: #0095FB;
+  border-color: #870c0b;
   color: #fff;
 }
 .solid.color-button-default:not([class*="bg-glass-"]) {
-  background-color: #0095FB;
+  background-color: #870c0b;
 }
 .solid.color-button-default:hover,
 .solid.color-button-default:focus,
 .solid.color-button-default:active,
 .solid.color-button-default.active {
   background-color: transparent;
-  border-color: #0095FB;
-  color: #0095FB;
+  border-color: #870c0b;
+  color: #870c0b;
 }
 .button-3d.color-button-default {
   box-shadow: inset 0px -4px 0px 0px rgba(0, 0, 0, 0.15);
-  border-color: #0095FB;
+  border-color: #870c0b;
   color: #fff;
 }
 .button-3d.color-button-default:not([class*="bg-glass-"]) {
-  background-color: #0095FB;
+  background-color: #870c0b;
 }
 .button-3d.color-button-default:hover,
 .button-3d.color-button-default:focus,
 .button-3d.color-button-default:active,
 .button-3d.color-button-default.active {
   top: 2px;
-  background-color: #0095FB;
-  border-color: #0095FB;
+  background-color: #870c0b;
+  border-color: #870c0b;
   box-shadow: inset 0px -2px 0px 0px rgba(0, 0, 0, 0.15);
   color: #fff;
 }
 .button-3dr.color-button-default {
   box-shadow: inset 0px -3px 0px 0px rgba(0, 0, 0, 0.15);
-  border-color: #0095FB;
+  border-color: #870c0b;
   color: #fff;
 }
 .button-3dr.color-button-default:not([class*="bg-glass-"]) {
-  background-color: #0095FB;
+  background-color: #870c0b;
 }
 .button-3dr.color-button-default:hover,
 .button-3dr.color-button-default:focus,
 .button-3dr.color-button-default:active,
 .button-3dr.color-button-default.active {
   top: 2px;
-  background-color: #0095FB;
-  border-color: #0095FB;
+  background-color: #870c0b;
+  border-color: #870c0b;
   box-shadow: inset 0px -2px 0px 0px rgba(0, 0, 0, 0.15);
   color: #fff;
 }

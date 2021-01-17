@@ -1114,8 +1114,11 @@ INDEX
 .nc-body .bgcolor-secondary {
   background-color: #6CBC35;
 }
-.nc-body .bgcolor-dark {
-  background-color: #1F2229;
+.nc-body .bgcolor-black {
+  background-color: #000000;
+}
+.nc-body .bgcolor-estu {
+  background-color: #870c0b;
 }
 .nc-body .bgcolor-light {
   background-color: #E1F2FB;
